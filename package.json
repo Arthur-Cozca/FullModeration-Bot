@@ -1,0 +1,21 @@
+{
+  "name": "full moderation bot",
+  "version": "1.0.0",
+  "description": "a moderation bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Cozca",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord-eval.js": "^1.0.1",
+    "discord-token-autochange": "^1.0.4",
+    "discord.js": "^11.5.1",
+    "json": "^9.0.6",
+    "moment": "^2.24.0",
+    "ms": "^2.1.1",
+    "node-cron": "^2.0.3"
+  }
+}
